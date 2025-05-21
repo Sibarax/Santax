@@ -1289,10 +1289,10 @@ https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 
-#EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="Sports", ZIGGO SPORT DOCU
+#EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="Sports", ABU DHABI SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-https://windnew.newkso.ru/wind/premium396/mono.m3u8
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://iili.io/JpN1WPf.png" group-title="Sports", ZIGGO SPORT SELECT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
